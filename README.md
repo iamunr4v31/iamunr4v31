@@ -2,17 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=iamunr4v31&label=PROFILE+VIEWS)
 
-<!--
-**iamunr4v31/iamunr4v31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn](https://www.linkedin.com/in/ashwin-s-aa0a22190/)
 
-Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on [TaskMaster](https://github.com/iamunr4v31/TaskMaster)
-- 🌱 I’m currently learning [Go](https://github.com/iamunr4v31/Learn-Go)
-- 💬 Ask me about anything I can help you with.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashwin-s-aa0a22190/)
-- 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: ... -->
+Hey peeps, I'm currently working on python projects. Anyone looking to help me learn and anyone looking to learn from me is welcome. DM me on linkedIn or raise an issue on this readme. I'm learning Go and Machine Learning. 
+
 
 ### 🛠️ Languages and Tools:
 <ul>
