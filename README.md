@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iamunr4v31&label=PROFILE+VIEWS)
 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashwin-s-aa0a22190/)
 
 
 Hey peeps, I'm currently working on python projects. Anyone looking to help me learn and anyone looking to learn from me is welcome. DM me on linkedIn or raise an issue on this readme. I'm learning Go and Machine Learning. 
