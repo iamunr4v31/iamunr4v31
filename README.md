@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=iamunr4v31&label=PROFILE+VIEWS)
+
 <!--
 **iamunr4v31/iamunr4v31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -7,8 +9,6 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on [TaskMaster](https://github.com/iamunr4v31/TaskMaster)
 - 🌱 I’m currently learning [Go](https://github.com/iamunr4v31/Learn-Go)
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about anything I can help you with.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ashwin-s-aa0a22190/)
 - 😄 Pronouns: He/Him
