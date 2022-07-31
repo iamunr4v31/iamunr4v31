@@ -10,7 +10,3 @@
 - 💬 Ask me about **Python, Flask and general programming stuff**
 
 - 📫 How to reach me **ashwins1211@gmail.com**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamunr4v31&show_icons=true&locale=en&layout=compact" alt="iamunr4v31" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamunr4v31&show_icons=true&locale=en" alt="iamunr4v31" /></p>
