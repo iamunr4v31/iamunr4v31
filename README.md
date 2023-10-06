@@ -1,12 +1,32 @@
-<h1 align="center">Hi 👋, I'm Ashwin</h1>
-<h3 align="center">A passionate AI enthusiast from India</h3>
+# Hello, I'm [Your Name] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamunr4v31&label=Profile%20views&color=0e75b6&style=flat" alt="iamunr4v31" /> </p>
+I'm an AI researcher specializing in Speech Synthesis with a strong interest in a variety of related topics within the field of Natural Language Processing (NLP). My work revolves around creating innovative solutions and advancing the state-of-the-art in Speech Synthesis for Indic languages. Here's an overview of my interests and research areas:
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamunr4v31" alt="iamunr4v31" /></a> </p> -->
+## Research Interests
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- **Speech Synthesis**: My primary focus is on developing state-of-the-art Text-to-Speech (TTS) systems and techniques to generate high-quality synthetic speech.
 
-- 💬 Ask me about **Python, Flask and general programming stuff**
+- **Multi-Modal Language Models**: I'm intrigued by the intersection of vision, language and speech in AI models, exploring multi-modal approaches that combine text, images, and audio for a more comprehensive contextual understanding.
 
-- 📫 How to reach me **ashwins1211@gmail.com**
+- **Voice Cloning**: I have a keen interest in the captivating field of voice cloning, which involves replicating human voices and creating personalized TTS systems.
+
+- **Expressive Speech Synthesis**: I'm passionate about enhancing synthetic speech with emotional nuances and natural prosody to make it more expressive.
+
+- **Natural Speech**: I'm dedicated to exploring the intricacies of natural speech, including accents, dialects, and conversational patterns.
+
+- **Reinforcement Learning in NLP**: I'm intrigued by the application of Reinforcement Learning techniques in NLP tasks, seeking ways to improve dialogue systems and language models.
+
+## Projects and Contributions 💼
+
+- [Roar: A Conversational toolkit for Indic Languages](https://github.com/iamunr4v31/Roar): Starting as a Nvidia/NeMo clone and building it as a personalized repo 
+
+- [Deep RL](https://github.com/iamunr4v31/DeepRL): A repository containing paper-to-code versions of deep reinforcement learning algorithms.
+
+- And a lot of private projects (for now) :sweat_smile:.
+
+## Connect with Me 📫
+
+I'm always excited to connect with fellow researchers and enthusiasts. Feel free to reach out to me through the following channels:
+
+- LinkedIn: [Ashwin Sankar](https://linkedin.com/in/ashwin-s2000)
+- Twitter: [@_iunravel](https://twitter.com/_iunravel)
