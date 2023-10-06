@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ashwin Sankar 👋
 
 I'm an AI researcher specializing in Speech Synthesis with a strong interest in a variety of related topics within the field of Natural Language Processing (NLP). My work revolves around creating innovative solutions and advancing the state-of-the-art in Speech Synthesis for Indic languages. Here's an overview of my interests and research areas:
 
